@@ -2,8 +2,8 @@
  *				HTBLA-Leonding / Class: <your class>
  * ---------------------------------------------------------
  * Exercise Number: 0
- * Title:			<title of the assignment>
- * Author:			<your name>
+ * Title:			<hello_world>
+ * Author:			<Bastian Haider>
  * ----------------------------------------------------------
  * Description:
  * <some brief description, what the program does: example:
@@ -16,6 +16,6 @@
 #include <stdio.h>
 
 int main(int argc, char const *argv[]) {
-  printf("Hello World\n");
+  printf("Hello Bastian Haider\n");
   return 0;
 }
